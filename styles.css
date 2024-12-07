@@ -223,4 +223,33 @@ footer a:hover {
 
 .feedback-link:hover {
     text-decoration: underline;
+}
+
+.capture-modes, .perfect-for {
+    background: #f8f9fa;
+    padding: 30px;
+    border-radius: 12px;
+    margin: 40px 0;
+}
+
+.capture-modes h3, .perfect-for h3 {
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+.capture-modes ul, .perfect-for ul {
+    list-style: none;
+    padding: 0;
+}
+
+.capture-modes li, .perfect-for li {
+    margin: 15px 0;
+    font-size: 1.1em;
+}
+
+.note {
+    font-style: italic;
+    color: #666;
+    font-size: 0.9em;
+    margin-top: 1rem;
 } 
